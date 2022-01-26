@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/poke-test/static/css/main.816c3d17.css",
+    "main.js": "/poke-test/static/js/main.bded7c7b.js",
+    "static/media/sword.svg": "/poke-test/static/media/sword.6138ce7d81ec456af0624d8d263915f3.svg",
+    "static/media/run.svg": "/poke-test/static/media/run.7f0610e79dc6e493361c773a4568b407.svg",
+    "static/media/shield.svg": "/poke-test/static/media/shield.8f05408e967de53c81e17249c107e125.svg",
+    "static/media/health.svg": "/poke-test/static/media/health.b5fea3a90a91bf735a27074e60df92f1.svg",
+    "static/media/Pokeball.svg": "/poke-test/static/media/Pokeball.481586a714139be09e3549b6e7e2461b.svg",
+    "index.html": "/poke-test/index.html",
+    "main.816c3d17.css.map": "/poke-test/static/css/main.816c3d17.css.map",
+    "main.bded7c7b.js.map": "/poke-test/static/js/main.bded7c7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.816c3d17.css",
+    "static/js/main.bded7c7b.js"
+  ]
+}
